@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"itec3030.assignments.a1.sensors.thermoset.ThermoSetX19","l":"ThermoSetX19"}]
